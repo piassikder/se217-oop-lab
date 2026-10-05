@@ -3,7 +3,7 @@
 ## Student Information
 - **Name:** Pias Sikder
 - **Student ID:** 252-35-297
-- **Section:** G2
+- **Section:** 45-G2
 - **Course:** SE 217 - Object Oriented Programming Lab
 
 ## Repository Description
