@@ -12,11 +12,11 @@ This repository contains my Java practice programs for Week 02 of the SE 217 Obj
 ## Folder Structure
 ```text
 se217-oop-lab/
-├── README.md
-    ├── 01_BasicClass.java
-    ├── 02_PrintOptions.java
-    ├── ...
-    └── 20_SummaryPractice.java
+├── 01_BasicClass.java
+├── 02_PrintOptions.java
+├── ...
+├── 20_SummaryPractice.java
+└── README.md
 ```
 
 ## Topics Covered
